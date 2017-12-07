@@ -1,5 +1,6 @@
 # Changelog
-
+* 2.0 - 2017-12-08
+    * Update to work with Ghost 1.0 and beyond
 * 1.4 - 2014-04-19
     * Added `package.json` (closes [#26](https://github.com/sethlilly/Vapor/issues/26))
     * Added `{{asset}}` helper (closes [#24](https://github.com/sethlilly/Vapor/issues/24) and [#13](https://github.com/sethlilly/Vapor/issues/13))
