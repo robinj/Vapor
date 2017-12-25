@@ -2,18 +2,15 @@
 
 // Imports
 
-@import url('//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300');
-@import url('//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
-
 // Variables
 
 @bodyBackgroundColor: #ffffff;
-@baseFontFamily: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+@baseFontFamily: "Palatino, Garamond";
 @baseFontColor: #7f8c8d;
-@headerFontFamily: "Roboto Slab", @baseFontFamily;
+@headerFontFamily: @baseFontFamily;
 @headerFontColor: #151515;
 @headerLinkColor: @headerFontColor;
-@secondaryFontFamily: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+@secondaryFontFamily: "Helvetica";
 @preFontFamily: "Consolas", Courier, monospace;
 @tableFontFamily: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
 @linkColor: #3498db;
@@ -129,27 +126,12 @@ article.preview {
 
 /* === Header === */
 
-#blog-logo {
-    display: block;
-    max-width: 100px;
-    margin: 50px auto 0;
-    text-align: center;
-    div.bloglogo {
-      width: 100px;
-      height: 100px;
-      border-radius: 50%;
-      background-size: cover !important;
-      background-position: center center !important;
-      background-color: @bodyBackgroundColor;
-    }
-}
-
 h1.blog-title, h2.blog-description {
     text-align: center
 }
 
 h1.blog-title {
-    font-size: 48px;
+    font-size: 30px;
     line-height: 52px;
     margin-top: 10px;
     margin-bottom: 30px;

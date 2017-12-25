@@ -1,4 +1,8 @@
 {
-  "name": "Vapour",
-  "version": "2.0.0"
+  "name": "gwei",
+  "version": "1.0.0",
+  "author": {
+    "name": "Robin Janssens",
+    "email": "contact@janssens.me.uk"
+  }
 }
