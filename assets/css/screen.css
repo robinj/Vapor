@@ -20,7 +20,7 @@ p,
 li,
 dt,
 dd {
-  font-family: "Palatino, Garamond";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
 }
 h1,
 .post-meta {
@@ -71,7 +71,7 @@ p code {
 }
 h1 {
   color: #151515;
-  font-family: "Palatino, Garamond";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-size: 36px;
   font-weight: 400;
   line-height: 42px;
@@ -145,7 +145,7 @@ section.share p {
   margin: 0;
 }
 section.author h4 {
-  font-family: "Palatino, Garamond";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-weight: 400;
   margin-bottom: 4px;
 }
@@ -154,7 +154,7 @@ section.share p.info {
   font-size: 16px;
   line-height: 20px;
   text-transform: uppercase;
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
 }
 section.share p.info.prompt {
   top: -5px;
@@ -172,7 +172,7 @@ section.author p.bio {
   line-height: 1.4em;
 }
 blockquote {
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.2em;
@@ -183,7 +183,7 @@ blockquote {
   padding-left: 1em;
 }
 blockquote p {
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.2em;
@@ -192,7 +192,7 @@ blockquote p {
 }
 .post-meta {
   color: #95a5a6;
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-size: 20px;
   font-weight: 300;
   margin-top: 1em;
@@ -226,7 +226,7 @@ h1.blog-title a:hover {
   text-decoration: none;
 }
 h2 {
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   margin-top: 2em;
   text-transform: uppercase;
   font-weight: 300;
@@ -258,7 +258,7 @@ footer {
   text-align: center;
 }
 footer section {
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-weight: 300;
   font-size: 18px;
   margin: 0 auto;
@@ -290,7 +290,7 @@ nav ul {
 }
 nav ul li {
   display: inline-block;
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-size: 18px;
   font-weight: 300;
   margin: 0;
@@ -331,7 +331,7 @@ a.archive-link {
   border-bottom: 1px solid #ecf0f1;
   border-top: 1px solid #ecf0f1;
   display: block;
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   font-size: 24px;
   font-weight: 300;
   margin-bottom: 3em;
@@ -344,7 +344,7 @@ a.archive-link {
   position: relative;
   width: 90%;
   max-width: 600px;
-  font-family: "Helvetica";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol";
   text-transform: uppercase;
   font-size: 20px;
   color: #7f8c8d;
@@ -390,7 +390,7 @@ a.archive-link {
   border: 1px solid rgba(0, 0, 0, 0.05) !important;
 }
 .gist .gist-file .gist-meta {
-  font-family: "Helvetica" !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" !important;
   font-weight: 300 !important;
   text-transform: uppercase !important;
   display: none !important;
