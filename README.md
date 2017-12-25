@@ -14,14 +14,8 @@ A minimal theme based on [Vapor](https://github.com/sethlilly/Vapor). It shares 
 ## Copyright & License
 Copyright (c) 2017 Robin Janssens - Released under the MIT License. See the [license file](LICENSE) for further attribution.
 
-## Are you using Vapor?
-
-If you're using Vapor on a live site, I'd love if you'd send me a message with the URL. I enjoy seeing the customizations and implmentations taking place all over the world. Regardless, thanks for using Vapor!
-
 ## Thanks
 
-Thanks to everyone who has installed, starred, forked, contributed to, or otherwise promoted Vapor. This is a labor of love, and it belongs to all of us.
+Thanks to everyone who has installed, starred, forked, contributed to, or otherwise promoted Gwei. This is a labor of love, and it belongs to all of us.
 
-Thanks to [@JohnONolan](http://twitter.com/JohnONolan) for [suggesting this project](https://alpha.app.net/johnonolan/post/9574144).
-
-And of course, thanks to [@JohnONolan](http://twitter.com/JohnONolan), [@ErisDS](http://twitter.com/ErisDS), and the Ghost team for creating this amazing platform.
+Thanks to Seth Lilly for the theme that this is based on, [Vapor](https://github.com/sethlilly/Vapor).
